@@ -1,0 +1,343 @@
+Nom:Boisclair
+Prénom:Danielle
+Adresse:80, rue de la Mare aux Carats
+Code postal:93100
+Ville:MONTREUIL
+Téléphone:01.55.93.62.85
+
+Nom:Bonami
+Prénom:Saville
+Adresse:52, rue Grande Fusterie
+Code postal:91800
+Ville:BRUNOY
+Téléphone:01.46.15.67.16
+
+Nom:Bourgeau
+Prénom:Azura
+Adresse:31, rue des lieutemants Thomazo
+Code postal:21000
+Ville:DIJON
+Téléphone:03.21.77.81.10
+
+Nom:Brodeur
+Prénom:Nicolas
+Adresse:34, rue Gouin de Beauchesne
+Code postal:97410
+Ville:SAINT-PIERRE
+Téléphone:02.07.85.58.73
+
+Nom:Brunault
+Prénom:Fortun
+Adresse:50, rue de la Hulotais
+Code postal:02100
+Ville:SAINT-QUENTIN
+Téléphone:03.47.75.36.88
+
+Nom:Brunelle
+Prénom:Natalie
+Adresse:57, route de Lyon
+Code postal:94200
+Ville:IVRY-SUR-SEINE
+Téléphone:01.96.65.53.45
+
+Nom:Bériault
+Prénom:Benoît
+Adresse:96, rue de la Mare aux Carats
+Code postal:34090
+Ville:MONTPELLIER
+Téléphone:04.95.46.51.97
+
+Nom:Champagne
+Prénom:Sargent
+Adresse:23, cours Jean Jaures
+Code postal:92100
+Ville:BOULOGNE-BILLANCOURT
+Téléphone:01.70.47.63.95
+
+Nom:Cliche
+Prénom:Garland
+Adresse:52, place de Miremont
+Code postal:93420
+Ville:VILLEPINTE
+Téléphone:01.40.06.77.40
+
+Nom:Corbeil
+Prénom:Viollette
+Adresse:35, Place de la Madeleine
+Code postal:75010
+Ville:PARIS
+Téléphone:01.50.90.68.43
+
+Nom:Cousteau
+Prénom:Byron
+Adresse:79, rue des Coudriers
+Code postal:68100
+Ville:MULHOUSE
+Téléphone:03.20.25.56.92
+
+Nom:Croteau
+Prénom:Cécile
+Adresse:12, rue du Faubourg National
+Code postal:95150
+Ville:TAVERNY
+Téléphone:01.36.58.58.21
+
+Nom:Daoust
+Prénom:Burnell
+Adresse:74, Place de la Gare
+Code postal:16100
+Ville:COGNAC
+Téléphone:05.84.32.75.66
+
+Nom:Daviau
+Prénom:Quincy
+Adresse:85, rue de la Mare aux Carats
+Code postal:34070
+Ville:MONTPELLIER
+Téléphone:04.44.16.17.72
+
+Nom:Dostie
+Prénom:Olivie
+Adresse:43, Cours Marechal-Joffre
+Code postal:69150
+Ville:DÉCINES-CHARPIEU
+Téléphone:04.29.22.80.76
+
+Nom:Dostie
+Prénom:Olivie
+Adresse:43, Cours Marechal-Joffre
+Code postal:69150
+Ville:DÉCINES-CHARPIEU
+Téléphone:04.29.22.80.76
+
+Nom:Doucet
+Prénom:Brigitte
+Adresse:87, Rue Joseph Vernet
+Code postal:84000
+Ville:AVIGNON
+Téléphone:04.98.77.63.15
+
+Nom:Duclos
+Prénom:Alain
+Adresse:83, rue Beauvau
+Code postal:13003
+Ville:MARSEILLE
+Téléphone:04.45.94.97.35
+
+Nom:Duffet
+Prénom:Natalie
+Adresse:6, rue du Président Roosevelt
+Code postal:77176
+Ville:SAVIGNY-LE-TEMPLE
+Téléphone:01.77.34.66.70
+
+Nom:Dufresne
+Prénom:Arianne
+Adresse:27, avenue Ferdinand de Lesseps
+Code postal:06130
+Ville:GRASSE
+Téléphone:04.27.17.38.42
+
+Nom:Dupéré
+Prénom:Brunella
+Adresse:76, Rue de la Pompe
+Code postal:97600
+Ville:MAMOUDZOU
+Téléphone:02.15.68.57.34
+
+Nom:Faure
+Prénom:Marveille
+Adresse:51, rue Saint Germain
+Code postal:92230
+Ville:GENNEVILLIERS
+Téléphone:01.98.47.05.03
+
+Nom:Fortier
+Prénom:Desire
+Adresse:73, rue de la Mare aux Carats
+Code postal:34090
+Ville:MONTPELLIER
+Téléphone:04.57.78.35.66
+
+Nom:Fournier
+Prénom:Emmanuelle
+Adresse:66, avenue Jean Portalis
+Code postal:19000
+Ville:TULLE
+Téléphone:05.79.71.90.67
+
+Nom:Fréchette
+Prénom:Zurie
+Adresse:41, Avenue De Marlioz
+Code postal:74100
+Ville:ANNEMASSE
+Téléphone:04.82.57.67.82
+
+Nom:Garcia
+Prénom:Campbell
+Adresse:46, rue Gouin de Beauchesne
+Code postal:97410
+Ville:SAINT-PIERRE
+Téléphone:02.40.63.49.69
+
+Nom:Gaulin
+Prénom:Robert
+Adresse:17, rue Gustave Eiffel
+Code postal:44400
+Ville:REZÉ
+Téléphone:02.57.81.01.60
+
+Nom:Grandpré
+Prénom:Frontino
+Adresse:17, Place de la Gare
+Code postal:31770
+Ville:COLOMIERS
+Téléphone:05.90.51.83.67
+
+Nom:Guernon
+Prénom:Kerman
+Adresse:89, rue Pierre De Coubertin
+Code postal:31200
+Ville:TOULOUSE
+Téléphone:05.25.65.15.31
+
+Nom:Harquin
+Prénom:Belle
+Adresse:26, rue de Raymond Poincaré
+Code postal:44200
+Ville:NANTES
+Téléphone:02.08.98.52.82
+
+Nom:Labrosse
+Prénom:Archaimbau
+Adresse:88, place Maurice-Charretier
+Code postal:28000
+Ville:CHARTRES
+Téléphone:02.40.47.70.75
+
+Nom:Lacroix
+Prénom:Auda
+Adresse:26, Chemin Du Lavarin Sud
+Code postal:62100
+Ville:CALAIS
+Téléphone:03.43.35.80.92
+
+Nom:Laforest
+Prénom:Valiant
+Adresse:6, Avenue De Marlioz
+Code postal:95100
+Ville:ARGENTEUIL
+Téléphone:01.36.02.99.37
+
+Nom:Laforest
+Prénom:Valiant
+Adresse:6, Avenue De Marlioz
+Code postal:95100
+Ville:ARGENTEUIL
+Téléphone:01.36.02.99.37
+
+Nom:Lavoie
+Prénom:Denis
+Adresse:34, avenue Voltaire
+Code postal:64700
+Ville:MAISONS-ALFORT
+Téléphone:05.03.92.56.32
+
+Nom:Louis
+Prénom:Archard
+Adresse:33, rue Banaudon
+Code postal:69007
+Ville:LYON
+Téléphone:04.26.84.13.15
+
+Nom:Lépicier
+Prénom:Amitee
+Adresse:61, rue de l'Epeule
+Code postal:59100
+Ville:ROUBAIX
+Téléphone:03.69.92.44.33
+
+Nom:Margand
+Prénom:Yolette
+Adresse:44, rue Cazade
+Code postal:59240
+Ville:DUNKERQUE
+Téléphone:03.13.40.33.39
+
+Nom:Marleau
+Prénom:Marine
+Adresse:99, Place de la Madeleine
+Code postal:75010
+Ville:PARIS
+Téléphone:01.37.41.37.60
+
+Nom:Méthot
+Prénom:Sébastien
+Adresse:13, Square de la Couronne
+Code postal:93500
+Ville:PANTIN
+Téléphone:01.48.29.79.95
+
+Nom:Panetier
+Prénom:Onfroi
+Adresse:65, avenue Jules Ferry
+Code postal:83140
+Ville:SIX-FOURS-LES-PLAGES
+Téléphone:04.08.88.57.41
+
+Nom:Paquet
+Prénom:Ila
+Adresse:75, rue du Faubourg National
+Code postal:33400
+Ville:TALENCE
+Téléphone:05.36.53.10.92
+
+Nom:Petit
+Prénom:Marine
+Adresse:69, Place Napoléon
+Code postal:02000
+Ville:LAON
+Téléphone:03.40.05.28.59
+
+Nom:Poissonnier
+Prénom:Marguerite
+Adresse:31, Place du Jeu de Paume
+Code postal:91270
+Ville:VIGNEUX-SUR-SEINE
+Téléphone:01.54.79.04.08
+
+Nom:Rancourt
+Prénom:Estelle
+Adresse:65, rue Clement Marot
+Code postal:66000
+Ville:PERPIGNAN
+Téléphone:04.69.64.89.65
+
+Nom:Roussel
+Prénom:Onfroi
+Adresse:22, boulevard de la Liberation
+Code postal:13012
+Ville:MARSEILLE
+Téléphone:04.61.23.05.35
+
+Nom:St-Jean
+Prénom:Berangaria
+Adresse:64, rue du Château
+Code postal:78100
+Ville:SAINT-GERMAIN-EN-LAYE
+Téléphone:01.63.36.76.28
+
+Nom:Tollmache
+Prénom:Louise
+Adresse:26, avenue de Provence
+Code postal:54500
+Ville:VANDOEUVRE-LÈS-NANCY
+Téléphone:03.96.53.56.16
+
+Nom:Varieur
+Prénom:Jacqueline
+Adresse:96, rue Banaudon
+Code postal:69007
+Ville:LYON
+Téléphone:04.32.74.14.49
+
