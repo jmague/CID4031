@@ -1,0 +1,8 @@
+beurre:13
+fromage:2
+jambon:4
+mayonnaise:7
+pain:8
+salade:2
+thon:9
+tomate:4
