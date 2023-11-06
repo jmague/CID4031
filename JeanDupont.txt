@@ -1,6 +1,0 @@
-Nom:Dupont
-Prénom:Jean
-Adresse:1 chemin de la liberté
-Code postal:69001
-Ville:Lyon
-Téléphone:01 02 03 04 05
